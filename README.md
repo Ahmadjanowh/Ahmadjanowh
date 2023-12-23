@@ -1,10 +1,10 @@
 # Привет, я Ахмаджано Хикматулло! 👋
 
+<img src="https://i.pinimg.com/564x/b4/a3/b2/b4a3b2c59e733fa9217fd5c28e3d34a2.jpg" alt="Ахмаджано Хикматулло" style="width: 100%; height: 400;" >
+
 - 🌍 Проживаю в Кыргызстане, Ош, Узген
 - 🎓 16 лет
 - 💻 Junior Python Backend Developer
-
-<img src="https://i.pinimg.com/564x/b4/a3/b2/b4a3b2c59e733fa9217fd5c28e3d34a2.jpg" style="width: 100%; height: 400;" >
 
 ## Навыки
 
@@ -23,4 +23,3 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-h__ahmadjanow-blue)](https://t.me/h_ahmadjanow)
 [![Instagram](https://img.shields.io/badge/Instagram-h.ahmadjanow-red)](https://instagram.com/h.ahmadjanow/)
-
