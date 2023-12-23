@@ -1,5 +1,5 @@
 # Привет, я Ахмаджано Хикматулло! 👋
-!
+![Mee logo](https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F39f5daa7-e260-4e07-bcd7-9a80997b1f53%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4QWII6SA75%252F20231223%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20231223T125450Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3Dec8f464f4732e3990942acbf9baf1ac27d793d1f5ffc3c9108805554262e3a35&sign=_rj9NXa14pfvEA8cDOGFcLPz8KmZjq4ZB_aEydYCvjU)
 - 🌍 Проживаю в Кыргызстане, Ош, Узген
 - 🎓 16 лет
 - 💻 Junior Python Backend Developer
