@@ -1,5 +1,5 @@
 # Привет, я Ахмаджано Хикматулло! 👋
-![logo photo](/Users/User/Desktop/logo.png)
+![logo photo](C:/Users/User/Desktop/logo.png)
 - 🌍 Проживаю в Кыргызстане, Ош, Узген
 - 🎓 16 лет
 - 💻 Junior Python Backend Developer
