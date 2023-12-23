@@ -4,6 +4,8 @@
 - 🎓 16 лет
 - 💻 Junior Python Backend Developer
 
+- <img src="https://www.pinterest.com/pin/427982770853153338/" style="width: 100%; height: 400;" >
+
 ## Навыки
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) - Знание Python 3 и его применение в разработке веб-приложений.
