@@ -1,5 +1,5 @@
 # Привет, я Ахмаджано Хикматулло! 👋
-<img src="https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F209ac8ea-2bce-45f4-b8a0-20f87211c5f0%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4QWII6SA75%252F20231223%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20231223T123008Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D56e05df68dc06b122b82e8e9f71d18f25f981d3155534ce349bd50f35d784e4d&sign=-g4yl9d8QB7sZ-Covyj1_T9MPoYse7tuAUV0YV2FAW8" style="width: 100%; height: auto;">
+
 
 - 🌍 Проживаю в Кыргызстане, Ош, Узген
 - 🎓 16 лет
