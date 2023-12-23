@@ -4,7 +4,7 @@
 - 🎓 16 лет
 - 💻 Junior Python Backend Developer
 
-- <img src="https://www.pinterest.com/pin/427982770853153338/" style="width: 100%; height: 400;" >
+<img src="https://www.pinterest.com/pin/427982770853153338/" style="width: 100%; height: 400;" >
 
 ## Навыки
 
