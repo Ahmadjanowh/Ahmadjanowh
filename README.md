@@ -1,6 +1,6 @@
 # Привет, я Ахмаджано Хикматулло! 👋
 
-<img src="https://i.pinimg.com/564x/b4/a3/b2/b4a3b2c59e733fa9217fd5c28e3d34a2.jpg" alt="Ахмаджано Хикматулло" style="width: 100%; height: 350px;" >
+<img src="hhttps://i.pinimg.com/736x/30/0e/ff/300effb6fee6e753958b91952cad2b15.jpg" alt="Ахмаджано Хикматулло" style="width: 100%; height: 350px;" >
 
 - 🌍 Проживаю в Кыргызстане, Ош, Узген
 - 🎓 16 лет
