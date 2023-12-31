@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/145537661?v=4" alt="Ахмаджано Хикматулло" style="width: 100%; height: auto;" >
+<img src="https://acropolium.com/img/articles/find-backend-developers/img01.jpg" alt="Ахмаджано Хикматулло" style="width: 100%; height: 420px;" >
 
 # Привет, я Ахмаджано Хикматулло! 👋
 - 🌍 Проживаю в Кыргызстане, Ош, Узген
